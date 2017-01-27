@@ -125,6 +125,8 @@
 <url> <loc>http://numenta.com/events/2017/02/23/cosyne/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/03/06/neuro-inspired-computational-elements-nice-workshop-2017/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/2017/03/07/cornell-csv17/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/05/03/images/test/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/events/2017/05/03/odsc-east/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/events/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/htm-for-stocks/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/htm-studio/date-time-formats/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
@@ -165,6 +167,8 @@
 <url> <loc>http://numenta.com/newsletter/2016/10/12/numenta-newsletter-october-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/2016/11/10/numenta-newsletter-november-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/2016/12/19/numenta-newsletter-december-2016/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/newsletter/2017/01/26/images/delete/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://numenta.com/newsletter/2017/01/26/January-2017-newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/newsletter/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/numenta-anomaly-benchmark/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/open-source-community/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
