@@ -206,7 +206,6 @@
 <url> <loc>http://numenta.com/papers/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers/porting-htm-models-to-the-heidelberg-neuromorphic-computing-platform/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers/properties-of-sparse-distributed-representations/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://numenta.com/papers/real-time-anomaly-detection-for-streaming-analytics/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers/unsupervised-real-time-anomaly-detection-for-streaming-data/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://numenta.com/partners/</loc> <changefreq>monthly</changefreq> <priority>0.5</priority> </url>
